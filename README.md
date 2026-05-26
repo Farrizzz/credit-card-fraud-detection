@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection — EDA & Baseline Model
 
-> **Project 1 dari 3** dalam portfolio Data Analyst saya | Domain: Fintech
+> **Project 1 dari 3** 
 
 ---
 
